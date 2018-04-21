@@ -8,7 +8,7 @@
         "eip158Block": 0,
         "daoForkBlock": 0
     },
-    "nonce": "0xd559753cface1e0cdbc15481f647e8cf1f64a371017d5c32aabaf9b6d69897bbd8c0dc0fe0ad144b8f166436e065102e77a87c22c12efed128b97df64b979f",
+    "nonce": "0x0000000000000247",
     "difficulty": "0x0400",
     "mixhash": "0xfaafdeaccfacfeeafc",
     "timestamp": "0x00",
