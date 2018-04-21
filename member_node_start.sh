@@ -1,0 +1,1 @@
+geth --datadir=~/geth-data --networkid=184 --bootnodes enode://1ec55385671e4205d5481b5bc590054e4b2e70c8de4bf23a438bef380c0c31cb2141ea18c31d8a1d001f9fc4f6dae047891c8ebd29a1fb7777cd8f4da05b80d2@[192.168.43.239]:30301
