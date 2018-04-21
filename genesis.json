@@ -8,9 +8,9 @@
         "eip158Block": 0,
         "daoForkBlock": 0
     },
-    "nonce": "0xicfgethtestnet",
+    "nonce": "0xfdadefafefaddafdadaaf",
     "difficulty": "0x0400",
-    "mixhash": "0xicfmixhashgethtest",
+    "mixhash": "0xfaafdeaccfacfeeafc",
     "timestamp": "0x00",
     "parentHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
     "gasLimit": "0xffffffff"
